@@ -1,0 +1,1 @@
+INSERT INTO `test`.`users` (`id`, `username`, `password`) VALUES ('1', 'arvin', '123456');
